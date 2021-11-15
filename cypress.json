@@ -1,0 +1,6 @@
+{
+    "baseUrl" : "http://www.decathlon.pl/",
+    "ignoreTestFiles": "**/examples/*",
+    "viewportHeight" : 1080,
+    "viewportWidth": 1920
+}
